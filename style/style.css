@@ -127,7 +127,7 @@ section .section-title{
 
 /* SKILL */
 .skills-section, footer{
-    background-color: #D5FFFB;
+    background-color: white;
 }
 
 .skills-section .progress-bar {
